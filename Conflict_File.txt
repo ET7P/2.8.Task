@@ -1,1 +1,2 @@
 Line 01 from VS
+Line 02 from Git. Master
